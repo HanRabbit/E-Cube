@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "eicons"; /* Project id 3320674 */
+  src: url('iconfont.woff2?t=1649718341422') format('woff2'),
+       url('iconfont.woff?t=1649718341422') format('woff'),
+       url('iconfont.ttf?t=1649718341422') format('truetype');
+}
+
+.eicons {
+  font-family: "eicons" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ecubeadd:before {
+  content: "\e664";
+}
+
+.icon-ecubeadjust:before {
+  content: "\e665";
+}
+
+.icon-ecubearrow-down:before {
+  content: "\e666";
+}
+
+.icon-ecubeashbin:before {
+  content: "\e667";
+}
+
+.icon-ecubearrow-right:before {
+  content: "\e668";
+}
+
+.icon-ecubebottom:before {
+  content: "\e669";
+}
+
+.icon-ecubeback:before {
+  content: "\e66a";
+}
+
+.icon-ecubeclose:before {
+  content: "\e66b";
+}
+
+.icon-ecubecalendar:before {
+  content: "\e66c";
+}
+
+.icon-ecubedirection-down:before {
+  content: "\e66d";
+}
+
+.icon-ecubedata-view:before {
+  content: "\e66e";
+}
+
+.icon-ecubedirection-up:before {
+  content: "\e66f";
+}
+
+.icon-ecubeedit:before {
+  content: "\e670";
+}
+
+.icon-ecubehome:before {
+  content: "\e674";
+}
+
+.icon-ecubelayers:before {
+  content: "\e675";
+}
+
+.icon-ecubelock:before {
+  content: "\e676";
+}
+
+.icon-ecubemenu:before {
+  content: "\e677";
+}
+
+.icon-ecubemodular:before {
+  content: "\e678";
+}
+
+.icon-ecubemore:before {
+  content: "\e679";
+}
+
+.icon-ecubesearch:before {
+  content: "\e67d";
+}
+
+.icon-ecubeselect:before {
+  content: "\e67e";
+}
+
+.icon-ecubesuccess:before {
+  content: "\e67f";
+}
+
+.icon-ecubesmile:before {
+  content: "\e680";
+}
+
+.icon-ecubeswitch:before {
+  content: "\e681";
+}
+
+.icon-ecubesetting:before {
+  content: "\e682";
+}
+
+.icon-ecubetime:before {
+  content: "\e683";
+}
+
+.icon-ecubetop:before {
+  content: "\e684";
+}
+
+.icon-ecubeuser:before {
+  content: "\e685";
+}
+
+.icon-ecubearrow-left-bold:before {
+  content: "\e686";
+}
+
+.icon-ecubearrow-up-bold:before {
+  content: "\e687";
+}
+
+.icon-ecubeclose-bold:before {
+  content: "\e688";
+}
+
+.icon-ecubearrow-down-bold:before {
+  content: "\e689";
+}
+
+.icon-ecubearrow-right-bold:before {
+  content: "\e68a";
+}
+
